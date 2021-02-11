@@ -1,0 +1,39 @@
+Boku no Hero Academia the Movie 2: Heroes:Rising:
+        moSin: 9 - 9.72727
+Score: -0.727273 + 9.08451 = 8.35723
+
+Code Geass: Hangyaku no Lelouch:
+        moSin: 9 - 9.72727
+Score: -0.727273 + 9.08451 = 8.35723
+
+Code Geass: Hangyaku no Lelouch R2:
+        moSin: 8 - 9.72727
+Score: -1.72727 + 9.08451 = 7.35723
+
+Death Note:
+        moSin: 9 - 9.72727
+Score: -0.727273 + 9.08451 = 8.35723
+
+Fullmetal Alchemist: Brotherhood:
+        moSin: 10 - 9.72727
+Score: 0.272727 + 9.08451 = 9.35723
+
+Mob Psycho 100 II:
+        moSin: 10 - 9.72727
+Score: 0.272727 + 9.08451 = 9.35723
+
+One Punch Man 2nd Season Specials:
+        moSin: 10 - 9.72727
+Score: 0.272727 + 9.08451 = 9.35723
+
+Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season:
+        moSin: 10 - 9.72727
+Score: 0.272727 + 9.08451 = 9.35723
+
+Steins;Gate 0:
+        moSin: 10 - 9.72727
+Score: 0.272727 + 9.08451 = 9.35723
+
+Tokyo Ghoul:
+        moSin: 10 - 9.72727
+Score: 0.272727 + 9.08451 = 9.35723
